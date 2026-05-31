@@ -7,6 +7,11 @@ const rootDir = path.join(__dirname, "..");
 const sourceDir = path.join(rootDir, "..", "Main", "anvogue-html");
 const contentDir = path.join(rootDir, "content");
 
+if (!fs.existsSync(sourceDir)) {
+  console.log("Template source not found, skipping page preparation (using committed content/).");
+  process.exit(0);
+}
+
 const ROUTE_MAP = {
   "index.html": "/",
   "shop-default.html": "/shop",

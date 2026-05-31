@@ -5,7 +5,7 @@
   "scripts": {
     "prepare:pages": "node scripts/prepare-pages.mjs",
     "dev": "npm run prepare:pages && next dev",
-    "build": "npm run prepare:pages && next build",
+    "build": "next build",
     "start": "next start",
     "lint": "eslint"
   },
