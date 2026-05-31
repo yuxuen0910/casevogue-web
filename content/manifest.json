@@ -1,0 +1,133 @@
+{
+  "index": {
+    "title": "CaseVogue",
+    "scripts": [
+      "phosphor-icons.js",
+      "swiper-bundle.min.js",
+      "main.js"
+    ],
+    "source": "index.html"
+  },
+  "shop": {
+    "title": "CaseVogue - Shop Breadcrumb IMG",
+    "scripts": [
+      "phosphor-icons.js",
+      "swiper-bundle.min.js",
+      "shop.js",
+      "main.js"
+    ],
+    "source": "shop-default.html"
+  },
+  "product": {
+    "title": "CaseVogue - Product Default",
+    "scripts": [
+      "phosphor-icons.js",
+      "swiper-bundle.min.js",
+      "jquery.min.js",
+      "magnific-popup.min.js",
+      "product-detail.js",
+      "main.js"
+    ],
+    "source": "product-default.html"
+  },
+  "cart": {
+    "title": "CaseVogue - Shopping Cart",
+    "scripts": [
+      "phosphor-icons.js",
+      "swiper-bundle.min.js",
+      "main.js"
+    ],
+    "source": "cart.html"
+  },
+  "checkout": {
+    "title": "CaseVogue - Checkout",
+    "scripts": [
+      "phosphor-icons.js",
+      "swiper-bundle.min.js",
+      "main.js"
+    ],
+    "source": "checkout.html"
+  },
+  "about": {
+    "title": "CaseVogue - About Us",
+    "scripts": [
+      "phosphor-icons.js",
+      "swiper-bundle.min.js",
+      "main.js"
+    ],
+    "source": "about.html"
+  },
+  "contact": {
+    "title": "CaseVogue - Contact Us",
+    "scripts": [
+      "phosphor-icons.js",
+      "swiper-bundle.min.js",
+      "main.js"
+    ],
+    "source": "contact.html"
+  },
+  "wishlist": {
+    "title": "CaseVogue - Wishlist",
+    "scripts": [
+      "phosphor-icons.js",
+      "swiper-bundle.min.js",
+      "main.js"
+    ],
+    "source": "wishlist.html"
+  },
+  "login": {
+    "title": "CaseVogue - Login",
+    "scripts": [
+      "phosphor-icons.js",
+      "swiper-bundle.min.js",
+      "main.js"
+    ],
+    "source": "login.html"
+  },
+  "register": {
+    "title": "CaseVogue - Register",
+    "scripts": [
+      "phosphor-icons.js",
+      "swiper-bundle.min.js",
+      "main.js"
+    ],
+    "source": "register.html"
+  },
+  "faqs": {
+    "title": "CaseVogue - FAQs",
+    "scripts": [
+      "phosphor-icons.js",
+      "swiper-bundle.min.js",
+      "main.js"
+    ],
+    "source": "faqs.html"
+  },
+  "search": {
+    "title": "CaseVogue - Search Result",
+    "scripts": [
+      "phosphor-icons.js",
+      "swiper-bundle.min.js",
+      "main.js"
+    ],
+    "source": "search-result.html"
+  },
+  "blog": {
+    "title": "CaseVogue - Blog Detail 1",
+    "scripts": [
+      "phosphor-icons.js",
+      "swiper-bundle.min.js",
+      "main.js",
+      "blog.js"
+    ],
+    "source": "blog-detail1.html"
+  },
+  "notFound": {
+    "title": "404 - Page Not Found",
+    "scripts": [
+      "phosphor-icons.js",
+      "swiper-bundle.min.js",
+      "main.js"
+    ],
+    "source": "page-not-found.html"
+  }
+}
